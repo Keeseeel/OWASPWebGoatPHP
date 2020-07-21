@@ -1,0 +1,3 @@
+<?php
+password='passwd123';
+?>
